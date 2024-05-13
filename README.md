@@ -1,1 +1,1 @@
-This is aimple gui calculator.
+This is simple gui calculator.
